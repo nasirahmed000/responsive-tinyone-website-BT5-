@@ -35,7 +35,7 @@ header{
 
 }
 .menu li:last-child a{
-    padding-right:  !important;
+    padding: right 0px  !important;
 }
 .menu li a:hover{
     color: white !important;
@@ -73,7 +73,7 @@ header{
     margin: 20px 0;
     font-size: 20px;
     font-weight: 400;
-    color:  #898989  !important;
+    color: #010101 !important;
 }
 .s_text p{
     color: #555555;
@@ -105,7 +105,9 @@ header{
 .feature{
    
 }
-.c_title{}
+.c_title{
+    
+}
 .c_h1{
     margin-bottom: 15px;
     font-size: 32px;
@@ -210,7 +212,7 @@ background-color: #010101;
 
 footer{
     background-color: #010101;
-    padding: 120px;
+    padding-bottom: 120px ;
 }
 .f_1{
     color: #fff;
@@ -248,9 +250,14 @@ footer{
     text-decoration: none;
 
 }
+.footer2{
+    background-color: #010101;
+}
 
-
-
+.f_l{
+    text-decoration: none;
+    color: #fcdb00;
+}
 
 /* footer start  */
 
